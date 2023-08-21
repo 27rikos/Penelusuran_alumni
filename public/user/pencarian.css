@@ -1,0 +1,45 @@
+body{
+    background-color: #F5F5F5;
+}
+
+section {
+    width: 100%;
+}
+
+.cari {
+    
+    margin-top: 15px;
+    width: 500px;
+}
+@media screen and (max-width: 500px) {
+    .cari {
+    
+        margin-top: 15px;
+        width: 300px;
+    }
+}
+.logo {
+    width: 50px;
+    padding: 5px;
+}
+
+.fst-italic {
+    width: 300px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+footer {
+    width: 100%;
+    bottom: 0;
+    background-color: #393E46;
+    background-size: 100% 100%;
+    text-align: justify;
+  }
+  .i {
+    color: black;
+    list-style-type: none;
+  }
+  
+  .icons {
+    list-style-type: none;
+  }

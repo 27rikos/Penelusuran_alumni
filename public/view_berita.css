@@ -1,0 +1,37 @@
+footer {
+    width: 100%;
+    bottom: 0;
+    background-color: #393E46;
+    background-size: 100% 100%;
+    text-align: justify;
+  }
+  .i {
+    color: black;
+    list-style-type: none;
+  }
+  
+  .icons {
+    list-style-type: none;
+  }
+  #view{
+    width: 250px;
+    height:150px ;
+  }
+.limit{
+  text-align: justify;
+}
+@media screen and (max-width: 428px) {
+  #view{
+    width: 150px;
+    height:100px ;
+  }
+}
+
+.logo {
+  width: 50px;
+  
+}
+
+body{
+  background-color: #EEEEEE;
+}

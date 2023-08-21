@@ -1,0 +1,31 @@
+body{
+    background-color: #EEEEEE;
+  }
+  
+  #foto{
+    width: 400px;
+    height: 200px;
+  }
+  
+  footer {
+    width: 100%;
+    bottom: 0;
+    background-color: #393E46;
+    background-size: 100% 100%;
+    text-align: justify;
+  }
+  .i {
+    color: black;
+    list-style-type: none;
+  }
+  
+  .icons {
+    list-style-type: none;
+  }
+
+  video{
+    width: 100px;
+    height: 100px;
+  }
+  
+

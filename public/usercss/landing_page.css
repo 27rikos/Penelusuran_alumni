@@ -1,0 +1,107 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.head {
+  min-height: 100vh;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+.head {
+  background: linear-gradient(
+      rgba(108, 108, 108, 0.8),
+      rgba(108, 108, 108, 0.8)
+    ),
+    url("../img/umi.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.btn {
+  width: 250px;
+}
+
+.text {
+  min-width: 80vw;
+  padding: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.logo {
+  width: 50px;
+  padding: 5px;
+}
+
+.nav-item:hover {
+  background-color: #194a7a;
+  border-radius: 5px;
+  border-style: 3px;
+  transition: all 0.3s ease;
+}
+
+footer {
+  width: 100%;
+  bottom: 0;
+  background-image: url("../img/vw.svg");
+  background-size: 100% 100%;
+  text-align: justify;
+}
+
+.mid {
+  height: 100vh;
+  width: 100%;
+  margin-top: 10%;
+}
+
+.i {
+  color: black;
+  list-style-type: none;
+}
+
+.icons {
+  list-style-type: none;
+}
+
+.sos {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.foto {
+  width: 100%;
+  height: 200px;
+}
+
+.card:hover {
+  transform: scale(1.01);
+  transition: all 0.3s ease;
+}
+
+.col {
+  padding: 5px;
+}
+
+.umi {
+  width: 150px;
+}
+
+.d-block {
+  height: 200px;
+  width: 100%;
+  object-fit: contain;
+}
+
+#logo {
+  height: 300px;
+  width: 300px;
+}
+.teks {
+  text-align: justify;
+}
+

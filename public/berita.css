@@ -1,0 +1,54 @@
+
+#view{
+  width:800px
+}
+
+@media (min-width: 380px) {
+    #view{
+        width:350px
+    }
+  }
+
+  @media (min-width: 250px) {
+    #view{
+        width:250px
+    }
+  }
+  @media (min-width: 750px) {
+    #view{
+        width:600px
+    }
+  }
+  @media (min-width: 400px) {
+    #view{
+        width:375px
+    }
+  }
+  @media (min-width: 1024px) {
+    #view{
+        width:800px
+    }
+  }
+  .logo {
+    width: 50px;
+  
+  }
+  body{
+    background-color: #EEEEEE;
+  }
+
+  footer {
+    width: 100%;
+    bottom: 0;
+    background-color: #393E46;
+    background-size: 100% 100%;
+    text-align: justify;
+  }
+  .i {
+    color: black;
+    list-style-type: none;
+  }
+  
+  .icons {
+    list-style-type: none;
+  }
